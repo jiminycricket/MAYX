@@ -82,7 +82,7 @@ body{
  
     .noel-head{
       background: #F1CEA9; 
-      border-radius: 50%;
+      border-radius: 45%;
       border-bottom-right-radius: 45%;
       border-bottom-left-radius: 45%;
       position: absolute; 
@@ -92,8 +92,8 @@ body{
 
     .noel-cap{
       background: #CB0F27;
-      border-radius: 50%;
-      height: 35%;
+      border-radius: 30%;
+      height: 30%;
       position: absolute; 
       top: 0; left: 0; right: 0;
     }
